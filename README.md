@@ -15,7 +15,7 @@ A Spring Boot REST API application for managing employee records with PostgreSQL
 - **Backend**: Spring Boot
 - **Database**: PostgreSQL
 - **Frontend**: Angular
-- **ORM**: Spring Data JPA/Hibernate
+- **ORM**: Spring Data JPA
 
 ## Prerequisites
 
